@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\InfoTecs_API.props" />
+</Project>
